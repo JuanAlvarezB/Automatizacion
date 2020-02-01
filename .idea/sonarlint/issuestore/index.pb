@@ -1,0 +1,47 @@
+
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+x
+Hsrc/main/java/co/com/choucair/certification/test/userinterface/Page.java,1\7\1740b7775d3a6bad894e7eca5f2918b58f07b4fc
+ˆ
+Xsrc/test/java/co/com/choucair/certification/test/stepdefinitions/TestStepDefinition.java,7\1\714eb185380d16fc8ffa9c1bd34b06288518f791
+r
+Bsrc/main/java/co/com/choucair/certification/test/tasks/Access.java,d\0\d04002e60a75b2f4844d6206ec1e495bc3de8978
+s
+Csrc/main/java/co/com/choucair/certification/test/util/Constant.java,e\0\e08781ee264c9a56c930d6a7d7b2dd067f12a7ad
+t
+Dsrc/main/java/co/com/choucair/certification/test/model/ModelOne.java,8\1\811b7281b9a303b1dad4e13e13d158e35526e9eb
+r
+Bsrc/test/java/co/com/choucair/certification/test/runners/Test.java,f\1\f1be1091d11eee1786d1efd71e56b94523b7baa9
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+P
+ src/main/java/util/Constant.java,a\6\a6f4a644970d512b0204a684e10c7b93e710d20d
+U
+%src/main/java/userinterface/Page.java,a\e\ae014dbbb014b7e12c1f1eda5b4c87c5d12c3bd7
+O
+src/main/java/tasks/Access.java,0\c\0cd96f7f5b7194fbfba96f725962e2b57f0af4fb
+C
+serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
+W
+'src/main/java/userinterface/Option.java,a\e\aeef8ac690adbf5135ea767ce8fd76b43712a640
+P
+ src/main/java/tasks/EnterTo.java,5\c\5c3f7929bc846d6e90ccabc3a440f4b3f94e325a
+M
+src/main/java/model/Word.java,7\d\7d4c03acedce52d9b83e90a60d7b1b422f792daa
+W
+'src/main/java/userinterface/Digite.java,6\7\67f8ba9cb8fd0cb100f5c1c9ea5cee51de333d3f
+O
+src/main/java/tasks/Search.java,8\0\801e4ee8135edb0c8575528412c9ff82a2078ad1
+O
+src/test/java/runners/Test.java,b\8\b836c441dce75b92ff2f84f6fd44f1605248e4c2
+e
+5src/test/java/stepdefinitions/TestStepDefinition.java,7\e\7e0ff6813b6ab11d279ad3d31ae64e2f907cf014
+W
+'src/main/java/questions/TheMessage.java,0\f\0f8e52f1c505d71a8d52908d5fbdcc18a2d5fe6e
+T
+$src/main/java/questions/TheText.java,1\e\1e06ffcd02f6aa9bb7177f2dfadf437b1efabcd5
+]
+-src/main/java/userinterface/Confirmation.java,e\c\ecc83caba8ce1e70dce707d61e66b95c6e99ca42
+W
+'src/main/java/userinterface/Search.java,f\8\f8fdff93a97a7f4191302c4efe7ca8b35ca2ba2c
